@@ -1,5 +1,5 @@
 <p align=center float=left>
-    <img src=https://image.j4c0b3y.net/J4C0B3Y.png style=width:150px;height:150px>
+    <img src=https://j4c0b3y.net/image/J4C0B3Y.png style=width:150px;height:150px>
     -----WIP-----
 </p>
 
