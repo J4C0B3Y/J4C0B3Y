@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-    <code><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/java.svg" width="40" alt=""></code>
-    <code><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/javascript.svg" width="40" alt=""></code>
-    <code><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/discordjs.svg" width="40" alt=""></code>
-    <code><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/python.svg" width="40" alt=""></code>
+    <code><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/java.svg" width="50" alt=""></code>
+    <code><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/javascript.svg" width="50" alt=""></code>
+    <code><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/discordjs.svg" width="50" alt=""></code>
+    <code><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/svg/python.svg" width="50" alt=""></code>
 </p>
 
 
