@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&reversal=true&animation=fadeIn&fontAlignY=35">
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=35"></p>
 
 <p align="center">Languages</p>
 
@@ -12,11 +10,12 @@
     <code><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="64" alt=""></code>
 </p>
 
+<p align="center">Projects</p>
 
-
+<p align="center">
+    <code><img title="StellarMC" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/stellarmc.png" width="64" alt=""></code>
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=J4C0B3Y&show_icons=true&hide_border=true&title_color=c792ea&icon_color=89dcfe&count_private=true&bg_color=0d1117&text_color=d9d9d9">
 
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer">
-</p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true"></p>
