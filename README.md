@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-    <code><img title="Java" src="/j4c0b3y/j4c0b3y/svg/java.svg" width="40" alt=""></code>
-    <code><img title="JavaScript" src="/j4c0b3y/j4c0b3y/svg/javascript.svg" width="40" alt=""></code>
-    <code><img title="Python" src="/j4c0b3y/j4c0b3y/svg/python.svg" width="40" alt=""></code>
+    <code><img title="Java" src="/j4c0b3y/j4c0b3y/blob/main/svg/java.svg" width="40" alt=""></code>
+    <code><img title="JavaScript" src="/j4c0b3y/j4c0b3y/blob/main/svg/javascript.svg" width="40" alt=""></code>
+    <code><img title="Python" src="/j4c0b3y/j4c0b3y/blob/main/svg/python.svg" width="40" alt=""></code>
 </p>
 
 
