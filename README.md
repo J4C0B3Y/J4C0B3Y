@@ -2,6 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&reversal=true&animation=fadeIn&fontAlignY=35">
 </p>
 
+<p align="center">Languages</p>
+
 <p align="center">
     <code><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="64" alt=""></code>
     <code><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="64" alt=""></code>
