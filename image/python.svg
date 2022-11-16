@@ -93,13 +93,13 @@
        cx="240"
        cy="120"
        r="20"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#1e415d;fill-opacity:1" />
     <circle
        id="path104"
        cx="360"
        cy="480"
        r="20"
-       style="fill:#ffffff;fill-opacity:1" />
+       style="fill:#1e415d;fill-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
