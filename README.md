@@ -6,6 +6,7 @@
     <code><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.svg" width="64" alt=""></code>
     <code><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="64" alt=""></code>
     <code><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="64" alt=""></code>
+    <code><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="64" alt=""></code>
     <code><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="64" alt=""></code>
 </p>
 
