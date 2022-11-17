@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20im&descAlignY=13&reversal=true" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20im&descAlignY=13&reversal=true" width="100%" alt="">
 
 <p align="center">I'm a Software Developer from Melbourne, Australia.</p>
 <p align="center">Currently working on StellarMC!</p>
@@ -47,4 +47,4 @@
     <img src="https://img.shields.io/discord/867717118568955904?label=discord" alt="">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%" alt="">
