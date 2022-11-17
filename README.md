@@ -40,7 +40,7 @@
 <br><br>
 
 <p align="center">
-    <img title="Website Status" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fstellarmc.org" alt="">
+    <img title="Last Update" src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=updated" alt="">
     <img title="Profile Views" src="https://komarev.com/ghpvc/?username=j4c0b3y&label=profile%20views" alt="">
     <img title="Discord Users Online" src="https://img.shields.io/discord/867717118568955904?label=discord" alt="">
 </p>
