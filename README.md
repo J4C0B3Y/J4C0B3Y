@@ -33,15 +33,18 @@
 ---
 
 <p align="center">
-    <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=j4c0b3y&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="">
-    <img align="right" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=j4c0b3y&theme=react&border=61dafb&hide_border=true" alt="">
-    <br>
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=j4c0b3y&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="">
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=j4c0b3y&theme=react&border=61dafb&hide_border=true" alt="">
 </p>
 
 ---
 
 <br><br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=j4c0b3y" alt=""></p>
+<p align="center">
+    <img src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fstellarmc.org" alt="">
+    <img src="https://komarev.com/ghpvc/?username=j4c0b3y&label=profile%20views" alt="">
+    <img src="https://img.shields.io/discord/867717118568955904?label=discord" alt="">
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%">
