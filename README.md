@@ -9,12 +9,14 @@
 <p align="center">I use:</p>
 
 <p align="center">
-    <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
-    <code><a href="https://javascript.com/"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="48" alt=""></a></code>
-    <code><a href="https://discord.js.org/"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
+    <code><a href="https://java.com"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
+    <code><a href="https://javascript.com"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="48" alt=""></a></code>
+    <code><a href="https://discord.js.org"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
     <code><a href="https://spigotmc.org"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
-    <code><a href="https://python.org/"><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="48" alt=""></a></code>
-    <code><a href="https://code.visualstudio.com/"><img title="VSCode" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/vscode.png" width="48" alt=""></a></code>
+    <code><a href="https://python.org"><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="48" alt=""></a></code>
+    <code><a href="https://code.visualstudio.com"><img title="Visual Studio Code" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/vscode.png" width="48" alt=""></a></code>
+    <code><a href="https://jetbrains.com/idea"><img title="InteliJ Idea" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/intelij.png" width="48" alt=""></a></code>
+    <code><a href="https://jetbrains.com/webstorm"><img title="Webstorm" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/webstorm.png" width="48" alt=""></a></code>
 </p>
 
 <br>
