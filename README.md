@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20im&descAlignY=13&reversal=true" width="100%">
 
 <p align="center">+ Software Developer +</p>
-<p align="center">Currently working on my Minecraft Network StellarMC</p>
+<p align="center">Currently working on StellarMC</p>
 
 <br>
 
