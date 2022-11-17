@@ -26,6 +26,10 @@
 
 ---
 
+Stats coming soon
+
+---
+
 <br><br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=j4c0b3y" alt=""></p>
