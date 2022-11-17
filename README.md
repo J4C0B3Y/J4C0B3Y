@@ -2,16 +2,18 @@
 
 <p align="center">+ Software Developer +</p>
 
+<br>
+
 ---
 
 <p align="center">I use:</p>
 
 <p align="center">
-    <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="32" alt=""></a></code>
-    <code><a href="https://javascript.com/"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="32" alt=""></a></code>
-    <code><a href="https://discord.js.org/"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="32" alt=""></a></code>
-    <code><a href="https://spigotmc.org"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="32" alt=""></a></code>
-    <code><a href="https://python.org/"><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="32" alt=""></a></code>
+    <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
+    <code><a href="https://javascript.com/"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="48" alt=""></a></code>
+    <code><a href="https://discord.js.org/"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
+    <code><a href="https://spigotmc.org"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
+    <code><a href="https://python.org/"><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="48" alt=""></a></code>
 </p>
 
 <br>
@@ -23,6 +25,8 @@
 </p>
 
 ---
+
+<br><br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=j4c0b3y" alt=""></p>
 
