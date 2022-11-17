@@ -1,4 +1,8 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20im&descAlignY=13&reversal=true"></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20im&descAlignY=13&reversal=true" width="100%">
+
+<p align="center">+ Software Developer +</p>
+
+---
 
 <p align="center">I use:</p>
 
@@ -18,6 +22,8 @@
     <code><a href="https://stellarmc.org"><img title="StellarMC" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/stellarmc.png" width="64" alt=""></a></code>
 </p>
 
+---
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=j4c0b3y" alt=""></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer"></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%">
