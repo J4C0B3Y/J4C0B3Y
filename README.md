@@ -1,6 +1,6 @@
 <img title="Hey, I'm J4C0B3Y" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20I'm&descAlignY=13&reversal=true" width="100%" alt="">
 
-<p title="Location" align="center">A Software Developer located in Melbourne, Australia.</p>
+<p title="Location" align="center">A Software Developer from Melbourne, Australia.</p>
 <p title="Current Project" align="center">Currently working on StellarMC!</p>
 
 <br>
