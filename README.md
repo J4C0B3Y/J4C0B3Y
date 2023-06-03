@@ -1,7 +1,7 @@
 <img title="Hey, I'm J4C0B3Y" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=J4C0B3Y&animation=fadeIn&fontAlignY=40&desc=Hey,%20I'm&descAlignY=13&reversal=true" width="100%" alt="">
 
 <p title="Location" align="center">I'm from Melbourne, Australia.</p>
-<p title="Current Project" align="center">Currently working on StellarMC!</p>
+<p title="Current Project" align="center">Currently working on Voided Network!</p>
 
 <br>
 
@@ -16,7 +16,6 @@
     <code><a href="https://javascript.com"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="48" alt=""></a></code>
     <code><a href="https://discord.js.org"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
     <code><a href="https://jetbrains.com/webstorm"><img title="Webstorm" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/webstorm.png" width="48" alt=""></a></code>
-    <code><a href="https://python.org"><img title="Python" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/python.svg" width="48" alt=""></a></code>
     <code><a href="https://code.visualstudio.com"><img title="Visual Studio Code" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/vscode.png" width="48" alt=""></a></code>
 </p>
 
