@@ -10,13 +10,12 @@
 <p title="What I Use" align="center">I use:</p>
 
 <p align="center">
-    <code><a href="https://java.com"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
-    <code><a href="https://spigotmc.org"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
+    <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
+    <code><a href="https://spigotmc.org/"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
     <code><a href="https://jetbrains.com/idea"><img title="InteliJ Idea" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/intelij.png" width="48" alt=""></a></code>
-    <code><a href="https://javascript.com"><img title="JavaScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/javascript.svg" width="48" alt=""></a></code>
-    <code><a href="https://discord.js.org"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
-    <code><a href="https://jetbrains.com/webstorm"><img title="Webstorm" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/webstorm.png" width="48" alt=""></a></code>
-    <code><a href="https://code.visualstudio.com"><img title="Visual Studio Code" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/vscode.png" width="48" alt=""></a></code>
+    <code><a href="https://www.typescriptlang.org/"><img title="TypeScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/typescript.svg" width="48" alt=""></a></code>
+    <code><a href="https://discord.js.org/"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
+    <code><a href="https://code.visualstudio.com/"><img title="Visual Studio Code" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/code.svg" width="48" alt=""></a></code>
 </p>
 
 <br>
@@ -24,7 +23,7 @@
 <p title="Projects" align="center">My projects:</p>
 
 <p align="center">
-    <code><a href="https://stellarmc.org"><img title="StellarMC" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/stellarmc.png" width="64" alt=""></a></code>
+    <code><a href="https://voided.gg/"><img title="Voided Network" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/voided.png" width="64" alt=""></a></code>
 </p>
 
 ---
@@ -39,9 +38,9 @@
 <br><br>
 
 <p align="center">
-    <img title="Last Update" src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=updated" alt="">
-    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=j4c0b3y&label=profile%20views" alt="">
-    <img title="Discord Users Online" src="https://img.shields.io/discord/867717118568955904?label=discord" alt="">
+    <img title="Last Updated" src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=Last%20Updated" alt="">
+    <img title="Profile Views" src="https://komarev.com/ghpvc/?username=j4c0b3y&label=Profile%20Views" alt="">
+    <img title="Discord Users Online" src="https://img.shields.io/discord/867717118568955904?label=Discord" alt="">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%" alt="">
+<img title="Thanks!" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer" width="100%" alt="">
