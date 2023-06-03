@@ -11,7 +11,7 @@
 
 <p align="center">
     <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/java.png" width="48" alt=""></a></code>
-    <code><a href="https://spigotmc.org/"><img title="Spigot" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
+    <code><a href="https://spigotmc.org/"><img title="Spigot API" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/spigot.png" width="48" alt=""></a></code>
     <code><a href="https://jetbrains.com/idea"><img title="InteliJ Idea" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/intelij.png" width="48" alt=""></a></code>
     <code><a href="https://www.typescriptlang.org/"><img title="TypeScript" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/typescript.svg" width="48" alt=""></a></code>
     <code><a href="https://discord.js.org/"><img title="DiscordJS" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/image/discordjs.png" width="48" alt=""></a></code>
@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-    <img title="GitHub Stats" width=400 src="https://github-readme-stats.vercel.app/api?username=j4c0b3y&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="">
-    <img title="Contribution Streak" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=j4c0b3y&theme=react&border=61dafb&hide_border=true" alt="">
+    <img title="GitHub Stats" width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=j4c0b3y&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&bg_color=00000000" alt="">
+    <img title="Contribution Streak" width=400 height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=j4c0b3y&theme=onedark&border=61dafb&hide_border=true&background=00000000" alt="">
 </p>
 
 ---
