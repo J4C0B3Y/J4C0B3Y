@@ -1,6 +1,6 @@
 ## Hey 👋, I'm J4C0B3Y!
 
-> **Melbourne, Australia**
+> 🇦🇺 **Melbourne, Australia**
 
 ---
 
