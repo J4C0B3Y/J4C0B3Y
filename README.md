@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">Tools i use:</p>
+<p align="center">Tools I use:</p>
 
 <p align="center">
     <code><a href="https://java.com/"><img title="Java" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/assets/tools/java.webp" width="48"></a></code>
