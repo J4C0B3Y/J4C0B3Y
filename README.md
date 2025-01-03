@@ -21,8 +21,8 @@
 <p align="center">Currently working on:</p>
 
 <p align="center">
-    <code><a href="https://voided.gg/"><img title="Voided Network" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/assets/projects/voided.webp" width="64"></a></code>
     <code><a href="https://refinedev.xyz/"><img title="Refine Development" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/assets/projects/refine.webp" width="64"></a></code>
+    <code><a href="https://voided.gg/"><img title="Voided Network" src="https://raw.githubusercontent.com/j4c0b3y/j4c0b3y/main/assets/projects/voided.webp" width="64"></a></code>
 </p>
 
 ---
@@ -37,5 +37,5 @@
 <p align="center">
     <img src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=Last%20Updated">
     <img src="https://komarev.com/ghpvc/?username=j4c0b3y&label=Profile%20Views">
-    <img src="https://img.shields.io/discord/867717118568955904?label=Discord">
+    <img src="https://img.shields.io/discord/888463667895623812?label=Discord">
 </p>
