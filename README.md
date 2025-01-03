@@ -35,7 +35,7 @@
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=Last%20Updated">
-    <img src="https://komarev.com/ghpvc/?username=j4c0b3y&label=Profile%20Views">
-    <img src="https://img.shields.io/discord/888463667895623812?label=Discord">
+    <a href="https://github.com/J4C0B3Y/J4C0B3Y"><img src="https://img.shields.io/github/last-commit/j4c0b3y/j4c0b3y?label=Last%20Updated"></a>
+    <a href="https://github.com/J4C0B3Y"><img src="https://komarev.com/ghpvc/?username=j4c0b3y&label=Profile%20Views"></a>
+    <a href="https://dsc.gg/refine"><img src="https://img.shields.io/discord/888463667895623812?label=Discord"></a>
 </p>
