@@ -1,7 +1,7 @@
 ## Hey 👋, I'm J4C0B3Y!
 
 > 🇦🇺 **Melbourne, Australia**<br/>
-> 🐧 I use arch btw.
+> 🐒 drizzy you're gay
 
 ---
 
