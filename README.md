@@ -29,7 +29,7 @@
 
 <p align="center">
     <img width=400 height=200 src="https://github-readme-stats.vercel.app/api?username=j4c0b3y&show_icons=true&theme=onedark&border_color=61dafb&hide_border=true&bg_color=00000000">
-    <img width=400 height=200 src="https://streak-stats.demolab.com/demo/preview.php?user=J4C0B3Y&theme=onedark&border=00000000&background=00000000">
+    <img width=400 height=200 src="https://streak-stats.demolab.com/?user=J4C0B3Y&theme=onedark&border=00000000&background=00000000">
 </p>
 
 ---
