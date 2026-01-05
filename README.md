@@ -1,7 +1,7 @@
 ## Hey 👋, I'm J4C0B3Y!
 
 > 🇦🇺 **Melbourne, Australia**<br/>
-> 🖥️ CS Student 2026??
+> 🏛️ Monash University
 
 ---
 
